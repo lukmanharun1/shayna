@@ -5,6 +5,7 @@
     <WomenSayna />
     <InstaSayna />
     <PartnerSayna />
+    <FooterSayna />
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import HeroSayna from "@/components/HeroSayna";
 import WomenSayna from "@/components/WomenSayna";
 import InstaSayna from "@/components/InstaSayna";
 import PartnerSayna from "@/components/PartnerSayna";
+import FooterSayna from "@/components/FooterSayna";
 export default {
   name: "Home",
   components: {
@@ -24,6 +26,7 @@ export default {
     WomenSayna,
     InstaSayna,
     PartnerSayna,
+    FooterSayna,
   },
 };
 </script>
